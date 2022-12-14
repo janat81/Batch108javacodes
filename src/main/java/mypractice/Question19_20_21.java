@@ -1,6 +1,6 @@
 package mypractice;
 
-public class Question19 {
+public class Question19_20_21 {
     public static void main(String[] args) {
         // Type code to find the number of words in a String.
 
