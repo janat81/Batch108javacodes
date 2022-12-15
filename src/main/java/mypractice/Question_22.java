@@ -17,7 +17,11 @@ public class Question_22 {
         String yes = v.contains("a")? "VAR":"YOK";
         System.out.println(yes);
 
-
+     if(v.indexOf("a")==-1){
+         System.out.println("there is no a");
+     }else{
+         System.out.println("there is a");
+     }
 
 
     }
